@@ -1,0 +1,85 @@
+
+*{
+				box-sizing: border-box;
+				font-family: raleway;
+}
+.html,body{
+				margin: 0;
+				padding: 0;
+}
+.main-header{
+background-color: rgba(0,0,0,6,);
+background-image: url('nnb.png.png');
+background-blend-mode: multiply;
+background-size: cover;
+padding-bottom: 30px;
+}
+.nav ul{
+				margin: 0;
+}
+.nav-li{
+				display: inline;
+}
+.nav a{
+				color: ash;
+				text-decoration: none;
+				display: inline-block;
+}
+.nav a:hover{
+				background-color: rgba(255,255,255,3,);
+}
+.main-nav{
+			
+				border-bottom: 1px solid rgba(255,255,255,3,);
+}
+.name{
+				text-align: center;
+				margin: 0;
+				font-size: 3em;
+				font-family:serif;
+}
+
+.service{
+				font-family: serif;
+}
+.service{text-align: center;
+				}
+.sec{
+				background-color: #675933;
+				}
+				.Lm{
+								
+								background-color: blue;
+				}
+				.ha{
+								margin: 0;
+								height: 1000px;
+								width: 500px;
+								align-self: center;
+				}
+.lmhard{
+				font-family: serif;
+}
+.l1{
+				font-family: serif;
+}
+
+	.sec2	{
+					background-color: #735a26;
+	}	
+	.l2{
+				font-family: serif;
+}
+.l3{
+				font-family: serif;
+}
+.l4{
+				font-family: serif;
+}
+.link{
+				align-content: left;
+}
+
+
+
+	
